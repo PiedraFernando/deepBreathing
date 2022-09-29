@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # respiracionProfunda
 
 This template should help get you started developing with Vue 3 in Vite.
@@ -33,3 +34,7 @@ npm run build
 ```sh
 npm run lint
 ```
+=======
+# deepBreathing
+Small app to breathe deeply for 4s and hold it for 8s, 20     times
+>>>>>>> 53dca850e9d19a109ce9dc787e73800273fe4749
